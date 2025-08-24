@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSCI 662 - Advanced Natural Language Processing
+title: CSCI 662 - Advanced Natural Language Processing 2023 Archive
 tagline: CS662
-description: Advanced Natural Language Processing
+description: Advanced Natural Language Processing 2023 Archive
 author: Jon May
-baseurl: '/USC-CS662/'
+baseurl: '/USC-CS662-23/'
 url: 'https://jonmay.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
